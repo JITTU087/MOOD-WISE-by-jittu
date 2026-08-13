@@ -1,0 +1,6 @@
+{
+  "name": "MOOD WISE by jittu",
+  "description": "An immersive, deeply nostalgic mood-based music experience curated by Jittu with interactive Happy & Sad cassette tape deck, dynamic quotes, lo-fi ambiance, and Gemini AI nostalgic art generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
